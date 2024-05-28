@@ -162,14 +162,7 @@ Oculus-2022-be is a robust open-source project offering a sophisticated backend 
 
 > Run Oculus-2022-be using the command below:
 > ```console
-> $ python main.py
-> ```
-
-###  Tests
-
-> Run the test suite using the command below:
-> ```console
-> $ pytest
+> $ python manage.py runserver
 > ```
 
 ---
